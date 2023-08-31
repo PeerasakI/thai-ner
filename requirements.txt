@@ -1,3 +1,7 @@
 pythainlp
 nltk
 scikit-learn
+dill
+matplotlib
+torch
+deepcut
